@@ -1,4 +1,4 @@
-# Tourism Revenue Manager & Analytics 📊
+# Revenue Manager & Analytics 📊
 
 A professional desktop application designed for tourism SMEs to manage inventory, analyze pricing strategy, and visualize revenue growth.
 
@@ -17,4 +17,5 @@ A professional desktop application designed for tourism SMEs to manage inventory
 ## 📦 Installation
 1. Clone the repository:
    ```bash
+
    git clone [https://github.com/phonktrack/revenue-manager.git](https://github.com/phonktrack/revenue-manager.git)
